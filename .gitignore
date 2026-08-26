@@ -1,0 +1,13 @@
+*.txt
+*.pdf
+old/*.*
+passwd/*.*
+test/
+phash/
+data/
+.tmp.driveupload
+kiyaku/OLD/*.*
+reference/*.pdf
+*.py
+db/*.*
+granpia.db
