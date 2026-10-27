@@ -1,6 +1,7 @@
 *.txt
 *.pdf
 *.docx
+*.doc
 *.xlsx
 ./細則
 3col/*.*
